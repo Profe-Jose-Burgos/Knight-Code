@@ -1,2 +1,7 @@
 # Knight-Code
-integrantes
+integrantes:
+
+Edgar Herrera
+Jorshua Fray
+Jackie Chung
+Jairo de León
