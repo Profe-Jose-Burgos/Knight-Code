@@ -1,7 +1,6 @@
-# Knight-Code
-integrantes:
+# Knight-Code, SIC – Support and Merchandising
 
-Edgar Herrera
-Jorshua Fray
+Integrantes:
+
 Jackie Chung
 Jairo de León
